@@ -1,0 +1,24 @@
+.grid{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.row{
+    display: flex;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    background-color: #153540;
+    border: 4px solid #0f1b21;
+    border-radius: 12px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.box img{
+    transform: scale(0.6);
+}

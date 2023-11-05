@@ -1,0 +1,27 @@
+.title{
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    height: 80px;
+    overflow: hidden;
+}
+.title img{
+    padding: 6px;
+    transform: scale(0.6);
+}
+
+.yellow{
+    color: yellow;
+    padding-right:8px;
+}
+.green{
+    color: #AAFF00;
+    padding-right: 8px;
+}
+.blue{
+    color: #0096FF;
+    padding-right: 8px;
+}
